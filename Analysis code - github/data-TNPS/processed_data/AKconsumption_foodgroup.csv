@@ -1,0 +1,14 @@
+groupname,groupcode,median,qt25,qt75,n,per
+Cereals and cereal products,1,323.8,238.7,422.5,345,98.9
+Starches,2,128.9,60.0,219.6,265,75.9
+"Pulses, dry",3,42.4,25.2,73.9,251,71.9
+Vegetables,4,124.2,67.2,196.3,346,99.1
+Fruits,5,80.8,40.2,172.4,269,77.1
+Beverages,6,3.0,1.1,51.3,248,71.1
+Sugar and sweets,7,35.8,25.0,52.9,286,81.9
+Nuts and seeds,8,20.1,11.9,42.8,90,25.8
+"Meat, meat products and fish",9,44.1,22.5,90.3,300,86.0
+Eggs,10,11.7,6.1,22.0,78,22.3
+Oil and fats,11,25.3,15.4,37.6,302,86.5
+Milk and milk products,12,134.8,55.0,292.4,249,71.3
+Spices and other foods,13,8.2,5.7,13.1,322,92.3

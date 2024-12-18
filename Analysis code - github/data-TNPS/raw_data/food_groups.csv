@@ -1,0 +1,76 @@
+itemcode,itemname,food_group
+101,RICE (PADDY),"Grains, roots, and tubers"
+102,RICE (HUSKED),"Grains, roots, and tubers"
+103,"MAIZE (GREEN, COB)",Other vegetables
+104,MAIZE (GRAIN),"Grains, roots, and tubers"
+105,MAIZE (FLOUR),"Grains, roots, and tubers"
+106,MILLET AND SORGHUM (GRAIN),"Grains, roots, and tubers"
+107,MILLET AND SORGHUM (FLOUR),"Grains, roots, and tubers"
+109,BREAD,"Grains, roots, and tubers"
+111,"MACARONI, SPAGHETTI","Grains, roots, and tubers"
+112,OTHER CEREAL PRODUCTS,"Grains, roots, and tubers"
+201,CASSAVA FRESH,"Grains, roots, and tubers"
+202,CASSAVA DRY/FLOUR,"Grains, roots, and tubers"
+203,SWEET POTATOES,"Grains, roots, and tubers"
+204,YAMS/COCOYAMS,"Grains, roots, and tubers"
+205,IRISH POTATOES,"Grains, roots, and tubers"
+206,"COOKING BANANAS, PLANTAINS",Other fruits
+207,OTHER STARCHES,Misc
+301,SUGAR,Misc
+302,SWEETS,Misc
+303,"HONEY, SYRUPS, JAMS, MARMALADE, JELLIES, CANNED FRUITS",Misc
+501,GROUNDNUTS IN SHELL/SHELLED,Nuts and seeds
+502,COCONUTS (MATURE/IMMATURE),Other fruits
+503,"CASHEW, ALMONDS AND OTHER NUTS",Nuts and seeds
+504,SEEDS AND PRODUCTS FROM NUTS/SEEDS (EXCL. COOKING OIL),Nuts and seeds
+603,"CANNED, DRIED, AND WILD VEGETABLES",Other vegetables
+701,RIPE BANANAS,Other fruits
+704,SUGARCANE,Misc
+801,GOAT MEAT,"Meat, poultry, and fish"
+802,BEEF (INCLUDING MINCED SAUSAGE),"Meat, poultry, and fish"
+803,PORK (INCLUDING SAUSAGES AND BACON),"Meat, poultry, and fish"
+805,WILD BIRDS AND INSECTS,"Meat, poultry, and fish"
+806,OTHER DOMESTIC/WILD MEAT PRODUCTS,"Meat, poultry, and fish"
+807,EGGS,Eggs
+809,DRIED/SALTED/CANNED FISH AND SEAFOOD (INCL. DAGAA),"Meat, poultry, and fish"
+810,PACKAGED/CANNED FISH,"Meat, poultry, and fish"
+901,FRESH MILK,Dairy
+902,"MILK PRODUCTS (LIKE CREAM, CHEESE, YOGHURT ETC)",Dairy
+903,CANNED MILK/MILK POWDER,Dairy
+1001,COOKING OIL,Misc
+1002,"BUTTER, MARGARINE, GHEE AND OTHER FAT PRODUCTS",Dairy
+1003,SALT,Misc
+1004,OTHER SPICES,Misc
+1081,WHEAT FLOUR,"Grains, roots, and tubers"
+1082,BARLEY GRAIN AND OTHER CEREALS,"Grains, roots, and tubers"
+1101,TEA DRY,Misc
+1102,COFFEE AND COCOA,Misc
+1103,OTHER RAW MATERIALS FOR DRINKS,Misc
+1104,"BOTTLED/CANNED SOFT DRINKS (SODA, JUICE, WATER)",Misc
+1105,"PREPARED TEA, COFFEE",Misc
+1106,BOTTLED BEER,Misc
+1107,LOCAL BREWS,Misc
+1108,WINE AND SPIRITS,Misc
+4011,PEAS,pulses
+4012,GREEN BEANS,pulses
+4013,"OTHER BEANS, LENTILS, AND PULSES",pulses
+6011,ONIONS,Other vegetables
+6012,TOMATOES,Other vegetables
+6013,"CARROTS AND GREEN PEPPER, OTHER VIUNGO",Other Vitamin A-rich fruits and vegetables
+6021,CABBAGE,Other vegetables
+6022,CHINESS/SPINACH,Dark leafy greens and vegetables
+6023,OTHER GREEN VEGETABLE,Dark leafy greens and vegetables
+7021,LEMON/LIME,Other fruits
+7022,ORANGE/TANGERINE,Other fruits
+7023,OTHER CITRUS FRUITS,Other fruits
+7031,MANGOES,Other Vitamin A-rich fruits and vegetables
+7032,AVOCADO,Other fruits
+7033,OTHER FRUITS,Other fruits
+8041,CHICKEN,"Meat, poultry, and fish"
+8042,OTHER POULTRY,"Meat, poultry, and fish"
+8081,DAGAA (FRESH),"Meat, poultry, and fish"
+8082,KOLEKOLE (FRESH),"Meat, poultry, and fish"
+8083,TILAPIA (FRESH),"Meat, poultry, and fish"
+8084,OTHER FRESH FISH AND SEAFOOD,"Meat, poultry, and fish"
+11011,BUNS,"Grains, roots, and tubers"
+11021,CAKES AND BISCUITS,"Grains, roots, and tubers"

@@ -1,0 +1,159 @@
+﻿itemcode,itemname,groupcode,groupname
+1,Biscuit,1,Cereal and cereal products
+2,Bread roll,1,Cereal and cereal products
+3,"Bread, white",1,Cereal and cereal products
+7,Cookie,1,Cereal and cereal products
+11,"Maize, dried, raw",1,Cereal and cereal products
+12,"Maize, flour, dry",1,Cereal and cereal products
+13,"Maize, green, cooked",1,Cereal and cereal products
+14,"Maize, on the cob, immature",1,Cereal and cereal products
+15,"Maize, yellow, flour",1,Cereal and cereal products
+17,Millet,1,Cereal and cereal products
+18,Mixed porridge flour (with maize),1,Cereal and cereal products
+21,"Rice, fried and boiled",1,Cereal and cereal products
+22,"Rice, flour, local",1,Cereal and cereal products
+23,"Rice, white, grain, raw",1,Cereal and cereal products
+26,"Sorghum, flour",1,Cereal and cereal products
+27,Vermicelli - uncooked,1,Cereal and cereal products
+30,Wheat flour,1,Cereal and cereal products
+31,"Wheat, flour, maida",1,Cereal and cereal products
+101,"Avocado, raw, all common variety",5,Fruits
+102,"Banana, ripe",5,Fruits
+104,Grapes,5,Fruits
+107,"Jackfruit, raw",5,Fruits
+109,"Lemon, raw, without peel",5,Fruits
+110,"Limes, raw",5,Fruits
+111,Mango juice,5,Fruits
+112,"Mango, ripe, fresh-EP",5,Fruits
+113,"Mango, unripe",5,Fruits
+114,Oranges,5,Fruits
+115,"Papaya, ripe",5,Fruits
+116,"Papaya, unripe",5,Fruits
+117,"Passion, fruit",5,Fruits
+119,Pineapple,5,Fruits
+121,"Plums, raw",5,Fruits
+125,"Watermelon, raw",5,Fruits
+127,Peach,5,Fruits
+128,Raspberry,5,Fruits
+129,Apple,5,Fruits
+151,"Bambara groundnut, fresh",8,Nuts and seeds
+153,"Beans, kidney, mature, boiled without salt",3,"pulses, dry"
+154,"Bean, kidney, green, cooked",3,"pulses, dry"
+157,Cashewnut,8,Nuts and seeds
+158,Chickpea,3,"pulses, dry"
+159,Chickpea flour (besan),3,"pulses, dry"
+164,Groundnuts,8,Nuts and seeds
+165,"Pigeon peas, cooked",3,"pulses, dry"
+168,"Soybean, yellow",3,"pulses, dry"
+170,"Beans, kidney, mature seeds, raw",3,"pulses, dry"
+180,"Lentil, whole",3,"pulses, dry"
+201,"Beef, liver, cooked",9,"Meat, meat products and fish"
+202,"Beef, medium fat, cooked",9,"Meat, meat products and fish"
+203,"Beef, tripe",9,"Meat, meat products and fish"
+204,"Beef, boneless",9,"Meat, meat products and fish"
+208,"Chicken, raw",9,"Meat, meat products and fish"
+220,"Fish, fresh",9,"Meat, meat products and fish"
+235,"Fresh milk, cow",12,Milk and milk products
+251,Ice cream,12,Milk and milk products
+254,"Milk powder, full-cream",12,Milk and milk products
+255,Milk,12,Milk and milk products
+256,"Yogurt, plain, whole milk",12,Milk and milk products
+307,"Yai la kuku / Egg, chicken",10,Eggs
+310,"Fish, high fat",9,"Meat, meat products and fish"
+311,"Fish, raw",9,"Meat, meat products and fish"
+312,"Fish, sardines",9,"Meat, meat products and fish"
+313,"Fish, small, dried, fresh water",9,"Meat, meat products and fish"
+315,Goat meat,9,"Meat, meat products and fish"
+316,"Mutton, meat",9,"Meat, meat products and fish"
+317,"Pork, medium fat, cooked",9,"Meat, meat products and fish"
+319,"Fish, smoked, dried-AP",9,"Meat, meat products and fish"
+354,"Potato, English, cooked",2,Starches
+356,"Taro, raw",2,Starches
+358,"Muhogo mbichi / Cassava, raw",2,Starches
+359,"Cassava, dried, flour",2,Starches
+360,"Sweet potato, fresh-AP",2,Starches
+361,"Sweet potato, fresh--EP",2,Starches
+362,"Cassava, dried",2,Starches
+368,"Yam, raw",2,Starches
+401,"Amaranth, leaves, raw",4,Vegetables
+403,"Cabbage, raw, green, white",4,Vegetables
+404,"Karoti mbichi / Carrots, raw",4,Vegetables
+407,"Matango na maganda / Cucumber, wit",4,Vegetables
+408,"Biringanya mbichi / Egg plant, raw",4,Vegetables
+409,Cassava leaf,4,Vegetables
+410,Cowpea leaf,4,Vegetables
+411,"Green medium, leaf",4,Vegetables
+412,"Pumpkin leaf, raw",4,Vegetables
+414,Lettuce,4,Vegetables
+416,"Okra, raw",4,Vegetables
+417,"Onion, raw",4,Vegetables
+418,"Pea, green, fresh",4,Vegetables
+420,Spinach,4,Vegetables
+421,"Nyanya chungu / Tomato, bitter (Af",4,Vegetables
+423,"Nyanya zilizoiva / Tomato, ripe",4,Vegetables
+427,"pilipili  za kijani/  chilli, gree",4,Vegetables
+428,"Chinisi mbichi / Cabbage, chinese,",4,Vegetables
+429,Green pepper (capsicum),4,Vegetables
+431,"Cabbage, chinese, raw",4,Vegetables
+432,"Salad, green",4,Vegetables
+433,"Pepper dried or fresh, hot",4,Vegetables
+451,"Beer, commercial",6,Beverages
+452,"Beer, local, grain",6,Beverages
+453,"Beer, local, non-specific",6,Beverages
+455,"Candy, choclate",7,Sugar and sweets
+458,"Carbonated, beverage, coca cola",6,Beverages
+462,"Orange drink, concentrated",6,Beverages
+463,"Salt, iodized",13,Spices and other foods
+465,Sugar,7,Sugar and sweets
+466,Sugarcane,5,Fruits
+468,Majani ya chai / Tea leaves,6,Beverages
+471,"Chili powder, red",13,Spices and other foods
+472,"Coffee, instant",6,Beverages
+476,"Fruit flavored drink, concentrated",6,Beverages
+477,"Garlic, fresh-AP",4,Vegetables
+478,Tomato paste,4,Vegetables
+480,"Vinegar, wine",13,Spices and other foods
+481,Chili sauce,13,Spices and other foods
+490,Ginger,13,Spices and other foods
+569,"Fish, fried",9,"Meat, meat products and fish"
+571,Egg boiled,10,Eggs
+572,"Meat, barbecued",9,"Meat, meat products and fish"
+574,"Chicken, boiled or roasted",9,"Meat, meat products and fish"
+658,"Mung bean (dry, boiled)",3,"pulses, dry"
+961,"Potato, boiled",2,Starches
+964,"Banana, fried",2,Starches
+965,"Cassava, boiled",2,Starches
+966,"Sweet potato, fried",2,Starches
+967,"Sweet potato, boiled",2,Starches
+969,"Banana,  boiled",2,Starches
+970,"Taro, cooked, without salt",2,Starches
+971,"Banana, roast",2,Starches
+1017,Refined corn flour,2,Starches
+1102,Butter refined-ghee,11,Oil and fats
+1104,Coconut milk and water,8,Nuts and seeds
+1105,Coconut cream,8,Nuts and seeds
+1107,Margarine,11,Oil and fats
+1108,Palm oil,11,Oil and fats
+1110,Vegetable fat,11,Oil and fats
+1111,"Vegetable fat, Cowboy",11,Oil and fats
+1113,Vegetable oil,11,Oil and fats
+1114,"Coconut meat, raw",8,Nuts and seeds
+1120,Coconut juice,8,Nuts and seeds
+1121,"Corn, roasted",2,Starches
+1125,Energy drink,6,Beverages
+4019,"Saro (Kales, raw)",4,Vegetables
+4074,"Sukuma Wiki, boiled",4,Vegetables
+8009,Perch Nile,9,"Meat, meat products and fish"
+9001,Animal fat/Lard,11,Oil and fats
+13002,Baking powder,13,Spices and other foods
+13003,Baking soda,13,Spices and other foods
+13005,Cardamon,13,Spices and other foods
+13006,"Chilli, fresh, raw",13,Spices and other foods
+13008,Cinnamon,13,Spices and other foods
+13011,Coriander Leaves,13,Spices and other foods
+13018,Garam masala,13,Spices and other foods
+13026,Black pepper,13,Spices and other foods
+13035,Yeast,13,Spices and other foods
+99910,"Potash, solid",13,Spices and other foods
+99911,"Tea, infusion",6,Beverages
+99912,Cloves,13,Spices and other foods

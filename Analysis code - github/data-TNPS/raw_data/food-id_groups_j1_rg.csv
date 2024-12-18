@@ -1,0 +1,61 @@
+itemcode,itemname,groupcode,groupname
+101,Rice (paddy),1,Cereals and cereal products
+102,Rice (husked),1,Cereals and cereal products
+103,"Maize (green, cob)",1,Cereals and cereal products
+104,Maize (grain),1,Cereals and cereal products
+105,Maize (flour),1,Cereals and cereal products
+106,Millet and sorghum (grain),1,Cereals and cereal products
+107,Millet and sorghum (flour),1,Cereals and cereal products
+109,Bread,1,Cereals and cereal products
+110,"Buns, cakes and biscuits",1,Cereals and cereal products
+111,"Macaroni, spaghetti",1,Cereals and cereal products
+112,Other cereal products,1,Cereals and cereal products
+201,Cassava fresh,2,Starches
+202,Cassava dry/flour,2,Starches
+203,Sweet potatoes,2,Starches
+204,Yams/cocoyams,2,Starches
+205,Irish potatoes,2,Starches
+206,"Cooking bananas, plantains",2,Starches
+207,Other starches,2,Starches
+301,Sugar,7,Sugar and sweets
+302,Sweets,7,Sugar and sweets
+303,"Honey, syrups, jams, marmalade, jellies, canned fruits",7,Sugar and sweets
+401,"Peas, beans, lentils and other pulses",3,"Pulses, dry"
+501,Groundnuts in shell/shelled,8,Nuts and seeds
+502,Coconuts (mature/immature),8,Nuts and seeds
+503,"Cashew, almonds and other nuts",8,Nuts and seeds
+504,Seeds and products from nuts/seeds (excl. Cooking oil),8,Nuts and seeds
+601,"Onions, tomatoes, carrots and green pepper, other viungo",4,Vegetables
+602,"Spinach, cabbage and other green vegetables",4,Vegetables
+603,"Canned, dried and wild vegetables",4,Vegetables
+701,Ripe bananas,5,Fruits
+702,"Citrus fruits (oranges, lemon, tangerines, etc.)",5,Fruits
+703,"Mangoes, avocadoes and other fruits",5,Fruits
+704,Sugarcane,5,Fruits
+801,Goat meat,9,"Meat, meat products and fish"
+802,Beef including minced sausage,9,"Meat, meat products and fish"
+803,Pork including sausages and bacon,9,"Meat, meat products and fish"
+804,Chicken and other poultry,9,"Meat, meat products and fish"
+805,Wild birds and insects,9,"Meat, meat products and fish"
+806,Other domestic/wild meat products,9,"Meat, meat products and fish"
+807,Eggs,10,Eggs
+808,Fresh fish and seafood (including dagaa),9,"Meat, meat products and fish"
+809,Dried/salted/canned fish and seafood (incl. Dagaa),9,"Meat, meat products and fish"
+810,Package fish,9,"Meat, meat products and fish"
+901,Fresh milk,12,Milk and milk products
+902,"Milk products (like cream, cheese, yoghurt etc)",12,Milk and milk products
+903,Canned milk/milk powder,12,Milk and milk products
+1001,Cooking oil,11,Oil and fats
+1002,"Butter, margarine, ghee and other fat products",11,Oil and fats
+1003,Salt,13,Spices and other foods
+1004,Other spices,13,Spices and other foods
+1081,Wheat flour,1,Cereals and cereal products
+1082,"Wheat, barley grain and other cereals",1,Cereals and cereal products
+1101,Tea dry,6,Beverages
+1102,Coffee and cocoa,6,Beverages
+1103,Other raw materials for drinks,6,Beverages
+1104,"Bottled/canned soft drinks (soda, juice, water)",6,Beverages
+1105,"Prepared tea, coffee",6,Beverages
+1106,Bottled beer,6,Beverages
+1107,Local brews,6,Beverages
+1108,Wine and spirits,6,Beverages

@@ -1,0 +1,76 @@
+itemcode,itemname,groupcode,food_group
+101,RICE (PADDY),1,Cereals and Cereal products
+102,RICE (HUSKED),1,Cereals and Cereal products
+103,"MAIZE (GREEN, COB)",1,Cereals and Cereal products
+104,MAIZE (GRAIN),1,Cereals and Cereal products
+105,MAIZE (FLOUR),1,Cereals and Cereal products
+106,MILLET AND SORGHUM (GRAIN),1,Cereals and Cereal products
+107,MILLET AND SORGHUM (FLOUR),1,Cereals and Cereal products
+109,BREAD,1,Cereals and Cereal products
+111,"MACARONI, SPAGHETTI",1,Cereals and Cereal products
+112,OTHER CEREAL PRODUCTS,1,Cereals and Cereal products
+201,CASSAVA FRESH,2,Starches
+202,CASSAVA DRY/FLOUR,2,Starches
+203,SWEET POTATOES,2,Starches
+204,YAMS/COCOYAMS,2,Starches
+205,IRISH POTATOES,2,Starches
+206,"COOKING BANANAS, PLANTAINS",2,Starches
+207,OTHER STARCHES,2,Starches
+301,SUGAR,7,Sugar and Sweets
+302,SWEETS,7,Sugar and Sweets
+303,"HONEY, SYRUPS, JAMS, MARMALADE, JELLIES, CANNED FRUITS",7,Sugar and Sweets
+501,GROUNDNUTS IN SHELL/SHELLED,8,Nuts and Seeds
+502,COCONUTS (MATURE/IMMATURE),8,Nuts and Seeds
+503,"CASHEW, ALMONDS AND OTHER NUTS",8,Nuts and Seeds
+504,SEEDS AND PRODUCTS FROM NUTS/SEEDS (EXCL. COOKING OIL),8,Nuts and Seeds
+603,"CANNED, DRIED, AND WILD VEGETABLES",4,Vegetables
+701,RIPE BANANAS,5,Fruits
+704,SUGARCANE,5,Fruits
+801,GOAT MEAT,9,"Meat, meat products, fish"
+802,BEEF (INCLUDING MINCED SAUSAGE),9,"Meat, meat products, fish"
+803,PORK (INCLUDING SAUSAGES AND BACON),9,"Meat, meat products, fish"
+805,WILD BIRDS AND INSECTS,9,"Meat, meat products, fish"
+806,OTHER DOMESTIC/WILD MEAT PRODUCTS,9,"Meat, meat products, fish"
+807,EGGS,10,Eggs
+809,DRIED/SALTED/CANNED FISH AND SEAFOOD (INCL. DAGAA),9,"Meat, meat products, fish"
+810,PACKAGED/CANNED FISH,9,"Meat, meat products, fish"
+901,FRESH MILK,12,Milk and milk products
+902,"MILK PRODUCTS (LIKE CREAM, CHEESE, YOGHURT ETC)",12,Milk and milk products
+903,CANNED MILK/MILK POWDER,12,Milk and milk products
+1001,COOKING OIL,11,Oil and fats
+1002,"BUTTER, MARGARINE, GHEE AND OTHER FAT PRODUCTS",11,Oil and fats
+1003,SALT,13,Spices and other foods
+1004,OTHER SPICES,13,Spices and other foods
+1081,WHEAT FLOUR,1,Cereals and Cereal products
+1082,BARLEY GRAIN AND OTHER CEREALS,1,Cereals and Cereal products
+1101,TEA DRY,6,Bevarages
+1102,COFFEE AND COCOA,6,Bevarages
+1103,OTHER RAW MATERIALS FOR DRINKS,6,Bevarages
+1104,"BOTTLED/CANNED SOFT DRINKS (SODA, JUICE, WATER)",6,Bevarages
+1105,"PREPARED TEA, COFFEE",6,Bevarages
+1106,BOTTLED BEER,6,Bevarages
+1107,LOCAL BREWS,6,Bevarages
+1108,WINE AND SPIRITS,6,Bevarages
+4011,PEAS,3,"Pulses, dry"
+4012,GREEN BEANS,3,"Pulses, dry"
+4013,"OTHER BEANS, LENTILS, AND PULSES",3,"Pulses, dry"
+6011,ONIONS,4,Vegetables
+6012,TOMATOES,4,Vegetables
+6013,"CARROTS AND GREEN PEPPER, OTHER VIUNGO",4,Vegetables
+6021,CABBAGE,4,Vegetables
+6022,CHINESS/SPINACH,4,Vegetables
+6023,OTHER GREEN VEGETABLE,4,Vegetables
+7021,LEMON/LIME,5,Fruits
+7022,ORANGE/TANGERINE,5,Fruits
+7023,OTHER CITRUS FRUITS,5,Fruits
+7031,MANGOES,5,Fruits
+7032,AVOCADO,5,Fruits
+7033,OTHER FRUITS,5,Fruits
+8041,CHICKEN,9,"Meat, meat products, fish"
+8042,OTHER POULTRY,9,"Meat, meat products, fish"
+8081,DAGAA (FRESH),9,"Meat, meat products, fish"
+8082,KOLEKOLE (FRESH),9,"Meat, meat products, fish"
+8083,TILAPIA (FRESH),9,"Meat, meat products, fish"
+8084,OTHER FRESH FISH AND SEAFOOD,9,"Meat, meat products, fish"
+11011,BUNS,1,Cereals and Cereal products
+11021,CAKES AND BISCUITS,1,Cereals and Cereal products
