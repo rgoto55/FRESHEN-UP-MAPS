@@ -1,0 +1,2243 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Article rdf:about="https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.14697">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0077-8923,%201749-6632"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tang</foaf:surname>
+                        <foaf:givenName>Kevin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Adams</foaf:surname>
+                        <foaf:givenName>Katherine P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferguson</foaf:surname>
+                        <foaf:givenName>Elaine L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woldt</foaf:surname>
+                        <foaf:givenName>Monica</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kalimbira</foaf:surname>
+                        <foaf:givenName>Alexander A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Likoswe</foaf:surname>
+                        <foaf:givenName>Blessings</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yourkavitch</foaf:surname>
+                        <foaf:givenName>Jennifer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chrisinger</foaf:surname>
+                        <foaf:givenName>Benjamin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pedersen</foaf:surname>
+                        <foaf:givenName>Sarah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Segovia De La Revilla</foaf:surname>
+                        <foaf:givenName>Lucia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dary</foaf:surname>
+                        <foaf:givenName>Omar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ander</foaf:surname>
+                        <foaf:givenName>E. Louise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Joy</foaf:surname>
+                        <foaf:givenName>Edward J. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_55"/>
+        <dc:title>Modeling food fortification contributions to micronutrient requirements in Malawi using Household Consumption and Expenditure Surveys</dc:title>
+        <dcterms:abstract>Abstract
+            Large‐scale food fortification may be a cost‐effective intervention to increase micronutrient supplies in the food system when implemented under appropriate conditions, yet it is unclear if current strategies can equitably benefit populations with the greatest micronutrient needs. This study developed a mathematical modeling framework for comparing fortification scenarios across different contexts. It was applied to model the potential contributions of three fortification vehicles (oil, sugar, and wheat flour) toward meeting dietary micronutrient requirements in Malawi through secondary data analyses of a Household Consumption and Expenditure Survey. We estimated fortification vehicle coverage, micronutrient density of the diet, and apparent intake of nonpregnant, nonlactating women for nine different micronutrients, under three food fortification scenarios and stratified by subpopulations across seasons. Oil and sugar had high coverage and apparent consumption that, when combined, were predicted to improve the vitamin A adequacy of the diet. Wheat flour contributed little to estimated dietary micronutrient supplies due to low apparent consumption. Potential contributions of all fortification vehicles were low in rural populations of the lowest socioeconomic position. While the model predicted large‐scale food fortification would contribute to reducing vitamin A inadequacies, other interventions are necessary to meet other micronutrient requirements, especially for the rural poor.</dcterms:abstract>
+        <dc:date>02/2022</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.14697</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-16 16:35:08</dcterms:dateSubmitted>
+        <bib:pages>105-122</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0077-8923,%201749-6632">
+        <prism:volume>1508</prism:volume>
+        <dc:title>Annals of the New York Academy of Sciences</dc:title>
+        <dc:identifier>DOI 10.1111/nyas.14697</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Annals of the New York Academy of Sciences</dcterms:alternative>
+        <dc:identifier>ISSN 0077-8923, 1749-6632</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_55">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/55/Tang et al. - 2022 - Modeling food fortification contributions to micro.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://escholarship.org/content/qt2p64p4sx/qt2p64p4sx.pdf?t=rx45as</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-16 16:35:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="https://www.fao.org/infoods/infoods/tables-and-databases/faoinfoods-databases/en/">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Food and Agriculture Organization of the United Nations (FAO)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>INFOODS</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>FAO/INFOODS Density Database</dc:title>
+        <dc:date>2012</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.fao.org/infoods/infoods/tables-and-databases/faoinfoods-databases/en/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:number>Version 2.0</prism:number>
+    </bib:Report>
+    <bib:Report rdf:about="http://www.fao.org/3/I9120EN/i9120en.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Nairobi</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Food and Agriculture Organization of the United Nations (FAO)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Government of Kenya</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Kenya Food Composition Tables</dc:title>
+        <dc:date>2018</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.fao.org/3/I9120EN/i9120en.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <bib:Report rdf:about="#item_77">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Rome</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Food and Agriculture Organization of the United Nations (FAO)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>INFOODS</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>FAO/INFOODS Global food composition database for fish and shellfish (uFiSh1.0)</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.fao.org/infoods/infoods/tables-and-databases/faoinfoods-databases/en/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:number>version 1.0</prism:number>
+    </bib:Report>
+    <bib:Article rdf:about="http://journals.sagepub.com/doi/10.1177/15648265120333S203">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0379-5721,%201564-8265"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weisell</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dop</foaf:surname>
+                        <foaf:givenName>Marie Claude</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Adult Male Equivalent Concept and its Application to Household Consumption and Expenditures Surveys (HCES)</dc:title>
+        <dcterms:abstract>Background
+              Knowledge of the amount and quality of food consumed by a population is essential in determining the adequacy of the food availability and supply. Since its founding, the Food and Agriculture Organization (FAO) has developed methods for determining food availability and consumption that may be useful to other investigators.
+            
+            
+              Objective
+              Based on FAO's 60 years of experience in conducting Household Consumption and Expenditures Surveys (HCES), to explain and demonstrate the advantages and use of the Adult Male Equivalent (AME) and Equivalent Nutrition Unit (ENU) concepts.
+            
+            
+              Methods
+              The important factors related to the AME and ENU, such as energy requirements, size and composition of the food consumer unit, and attendance at meals, are explained through the examples of two hypothetical families: a family consisting of a father, a mother, a 12-year old daughter, and a 3-year old son plus an adult guest; and a family consisting of a single mother, a 10-year old son, and two daughters, 6 and 4 years of age. The reader is guided through the steps in calculating the AME and ENU.
+            
+            
+              Results
+              The various scenarios of the composition, size, and attendance at meals of the consumer unit show that the calculated food energy adequacy can range from +2% to −29%.
+            
+            
+              Conclusions
+              Care and attention must be given to correctly attributing the consumers of the food intake measured or estimated. In addition, use of these concepts allows for a valid comparison of food consumption units of various sizes and compositions.</dcterms:abstract>
+        <dc:date>09/2012</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.sagepub.com/doi/10.1177/15648265120333S203</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-12-04 22:22:58</dcterms:dateSubmitted>
+        <bib:pages>S157-S162</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0379-5721,%201564-8265">
+        <prism:volume>33</prism:volume>
+        <dc:title>Food and Nutrition Bulletin</dc:title>
+        <dc:identifier>DOI 10.1177/15648265120333S203</dc:identifier>
+        <prism:number>3_suppl2</prism:number>
+        <dcterms:alternative>Food Nutr Bull</dcterms:alternative>
+        <dc:identifier>ISSN 0379-5721, 1564-8265</dc:identifier>
+    </bib:Journal>
+    <bib:Report rdf:about="#item_79">
+        <z:itemType>report</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dcterms:alternative>AO food and nutrition technical report series</dcterms:alternative>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Rome</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Food and Agriculture Organization of the United Nations (FAO)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>The World Health Organization (WHO)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>United Nations University (UNU)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Human energy requirements. Report of a Joint FAO/WHO/UNU Expert  Consultation</dc:title>
+        <dc:date>2004</dc:date>
+    </bib:Report>
+    <bib:Report rdf:about="https://iris.who.int/handle/10665/65932">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>The World Health Organization (WHO)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Complementary feeding of young children in developing countries: a review of current scientific knowledge</dc:title>
+        <dc:date>1998</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://iris.who.int/handle/10665/65932</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <prism:number>WHO/NUT/98.1</prism:number>
+    </bib:Report>
+    <bib:Report rdf:about="http://gdfe.co/srvyr/">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Greg Freedman Ellis</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Thomas Lumley</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Tomasz Żółtak</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Ben Schneider</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Pavel N. Krivitsky</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>srvyr</dc:title>
+        <dc:identifier>
+           <dcterms:URI><rdf:value>http://gdfe.co/srvyr/</rdf:value></dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <bib:Data rdf:about="https://www.tidyverse.org/">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Hadley Wickham</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>RStudio</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>tidyverse</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.tidyverse.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Report rdf:about="#item_88">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Boston</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Zohra Lukmanji</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Ellen Hertzmark</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Nicolas Mlingi</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Vincent Assey</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Godwin Ndossi</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Wafaie Fawzi</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Muhimbili University of Health and Allied Sciences (MUHAS)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tanzania Food and Nutrition Centre (TFNC)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harvard School of Public Health (HSPH)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Tanzania Food Composition Tables</dc:title>
+        <dc:date>2008</dc:date>
+    </bib:Report>
+    <bib:Report rdf:about="https://www.fao.org/documents/card/en?details=ca7779b">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Rome</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Food and Agriculture Organization of the United Nations (FAO)</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>INFOODS</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>FAO/INFOODS Food Composition Table for Western Africa (2019) User Guide &amp; Condensed Food Composition Table / Table de composition des aliments FAO/INFOODS pour l’Afrique de l’Ouest (2019) Guide d’utilisation &amp; table de composition des aliments condensée</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.fao.org/documents/card/en?details=ca7779b</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <bib:Report rdf:about="https://www.R-project.org/">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vienna, Austria</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>R Foundation for Statistical Computing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>R Core Team</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>R: A language and environment for statistical computing</dc:title>
+        <dc:date>2021</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.R-project.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <bib:Report rdf:about="https://r-survey.r-forge.r-project.org/survey/">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Thomas Lumley</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>survey: analysis of complex survey samples</dc:title>
+        <dc:date>2023</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://r-survey.r-forge.r-project.org/survey/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <bib:Article rdf:about="https://onlinelibrary.wiley.com/doi/10.1111/mcn.13464">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1740-8695,%201740-8709"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heckert</foaf:surname>
+                        <foaf:givenName>Jessica</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martinez</foaf:surname>
+                        <foaf:givenName>Elena M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seymour</foaf:surname>
+                        <foaf:givenName>Greg</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pereira</foaf:surname>
+                        <foaf:givenName>Audrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roy</foaf:surname>
+                        <foaf:givenName>Shalini</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Sunny S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Malapit</foaf:surname>
+                        <foaf:givenName>Hazel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gender Assets and Agriculture Project Phase 2 (GAAP2) Health and Nutrition Study Team</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_120"/>
+        <dc:title>Development and validation of a health and nutrition module for the project‐level Women's Empowerment in Agriculture Index (pro‐WEAI+HN)</dc:title>
+        <dcterms:abstract>Abstract
+            Agricultural development projects increasingly aim to improve health and nutrition outcomes, often by engaging women. Although evidence shows such projects can improve women's and children's health and nutrition and empower women, little is known about their impacts on women's health‐ and nutrition‐related agency and the extent to which impacts emerge through women's empowerment, largely due to a lack of instruments that measure the dimensions of women's agency that are directly relevant to health and nutrition outcomes. We developed an optional, complementary module for the project‐level women's empowerment in agriculture index (pro‐WEAI) to measure health‐ and nutrition‐related agency (pro‐WEAI + HN). Our method for developing related indicators used data collected from six agricultural development programmes implemented across Bangladesh, Burkina Faso and Mali (pooled sample = 12,114) and applied psychometric analysis (exploratory and confirmatory factor analysis) and the Alkire−Foster methodology. Results revealed seven indicators covering women's agency in the areas of her own health and diet; her health and diet during pregnancy; her child's diet; breastfeeding and weaning; purchasing food and health products; and acquiring food and health products. Multigroup confirmatory factor analysis revealed measurement invariance across contexts and samples. Tests of association (Cramer's V) and redundancy suggest that the pro‐WEAI + HN indicators measured aspects of agency that are distinct from the core pro‐WEAI. The uptake of these indicators in studies of nutrition‐sensitive agricultural development projects may strengthen the evidence on how such programming can enhance women's empowerment to improve health and nutrition outcomes for themselves and their children.
+          , 
+            Key messages
+            
+              
+                
+                  We developed a health and nutrition module for the project‐level Women's Empowerment in Agriculture Index (pro‐WEAI + HN) to measure health‐ and nutrition‐related agency.
+                
+                
+                  We used data from six projects in Bangladesh, Burkina Faso and Mali; conducted psychometric analysis, and applied the Alkire−Foster methodology to validate seven standardized indicators.
+                
+                
+                  The seven pro‐WEAI + HN indicators measure aspects of agency that are conceptually and statistically distinct from the core pro‐WEAI indicators.
+                
+                
+                  Use of this module can strengthen the evidence on women's empowerment in the context of nutrition‐sensitive agriculture programmes and policies.</dcterms:abstract>
+        <dc:date>04/2023</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/10.1111/mcn.13464</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-02 10:35:09</dcterms:dateSubmitted>
+        <bib:pages>e13464</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1740-8695,%201740-8709">
+        <prism:volume>19</prism:volume>
+        <dc:title>Maternal &amp; Child Nutrition</dc:title>
+        <dc:identifier>DOI 10.1111/mcn.13464</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Maternal &amp; Child Nutrition</dcterms:alternative>
+        <dc:identifier>ISSN 1740-8695, 1740-8709</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_120">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/120/Heckert et al. - 2023 - Development and validation of a health and nutriti.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/mcn.13464</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-02 10:35:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://dx.plos.org/10.1371/journal.pone.0260301">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1932-6203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnston</foaf:surname>
+                        <foaf:givenName>Robert</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dhamija</foaf:surname>
+                        <foaf:givenName>Gaurav</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kapoor</foaf:surname>
+                        <foaf:givenName>Mudit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Agrawal</foaf:surname>
+                        <foaf:givenName>Praween K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wagt</foaf:surname>
+                        <foaf:givenName>Arjan De</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sane</foaf:surname>
+                        <foaf:givenName>Renuka</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_122"/>
+        <dc:title>Methods for assessing seasonal and annual trends in wasting in Indian surveys (NFHS-3, 4, RSOC &amp; CNNS)</dc:title>
+        <dcterms:abstract>Wasting in children under-five is a form of acute malnutrition, a predictor of under-five child mortality and of increased risk of future episodes of stunting and/or wasting. In India, national estimates of wasting are high compared to international standards with one in five children found to be wasted. National surveys are complex logistical operations and most often not planned or implemented in a manner to control for seasonality. Collection of survey data across differing months across states introduces seasonal bias. Cross-sectional surveys are not designed to collect data on seasonality, thus special methods are needed to analyse the effect of data collection by month. We developed regression models to estimate the mean weight for height (WHZ), prevalence of wasting for every month of the year for an average year and an overall weighted survey estimates controlling for the socio-demographic variation of data collection across states and populations over time. National level analyses show the mean WHZ starts at its highest in January, falls to the lowest in June/August and returns towards peak at year end. The prevalence of wasting is lowest in January and doubles by June/August. After accounting for seasonal patterns in data collection across surveys, the trends are significantly different and indicate a stagnant period followed by a decline in wasting. To avoid biased estimates, direct comparisons of acute malnutrition across surveys should not be made unless seasonality bias is appropriately addressed in planning, implementation or analysis. Eliminating the seasonal variation in wasting would reduce the prevalence by half and provide guidance towards further reduction in acute malnutrition.</dcterms:abstract>
+        <dc:date>2021-11-22</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dx.plos.org/10.1371/journal.pone.0260301</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-02 10:36:42</dcterms:dateSubmitted>
+        <bib:pages>e0260301</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1932-6203">
+        <prism:volume>16</prism:volume>
+        <dc:title>PLOS ONE</dc:title>
+        <dc:identifier>DOI 10.1371/journal.pone.0260301</dc:identifier>
+        <prism:number>11</prism:number>
+        <dcterms:alternative>PLoS ONE</dcterms:alternative>
+        <dc:identifier>ISSN 1932-6203</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_122">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/122/Johnston et al. - 2021 - Methods for assessing seasonal and annual trends i.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0260301&amp;type=printable</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-02 10:36:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S2542519623001250">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:25425196"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Connors</foaf:surname>
+                        <foaf:givenName>Kaela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jaacks</foaf:surname>
+                        <foaf:givenName>Lindsay M</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Awasthi</foaf:surname>
+                        <foaf:givenName>Ananya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Becker</foaf:surname>
+                        <foaf:givenName>Karoline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bezner Kerr</foaf:surname>
+                        <foaf:givenName>Rachel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fivian</foaf:surname>
+                        <foaf:givenName>Emily</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gelli</foaf:surname>
+                        <foaf:givenName>Aulo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Harris-Fry</foaf:surname>
+                        <foaf:givenName>Helen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heckert</foaf:surname>
+                        <foaf:givenName>Jessica</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kadiyala</foaf:surname>
+                        <foaf:givenName>Suneetha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martinez</foaf:surname>
+                        <foaf:givenName>Elena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Santoso</foaf:surname>
+                        <foaf:givenName>Marianne V</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Young</foaf:surname>
+                        <foaf:givenName>Sera L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bliznashka</foaf:surname>
+                        <foaf:givenName>Lilia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_124"/>
+        <dc:title>Women's empowerment, production choices, and crop diversity in Burkina Faso, India, Malawi, and Tanzania: a secondary analysis of cross-sectional data</dc:title>
+        <dc:date>07/2023</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Women's empowerment, production choices, and crop diversity in Burkina Faso, India, Malawi, and Tanzania</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S2542519623001250</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-05 11:56:59</dcterms:dateSubmitted>
+        <dc:description>Appendix
+https://ars.els-cdn.com/content/image/1-s2.0-S2542519623001250-mmc1.pdf</dc:description>
+        <bib:pages>e558-e569</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:25425196">
+        <prism:volume>7</prism:volume>
+        <dc:title>The Lancet Planetary Health</dc:title>
+        <dc:identifier>DOI 10.1016/S2542-5196(23)00125-0</dc:identifier>
+        <prism:number>7</prism:number>
+        <dcterms:alternative>The Lancet Planetary Health</dcterms:alternative>
+        <dc:identifier>ISSN 25425196</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_124">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/124/Connors et al. - 2023 - Women's empowerment, production choices, and crop .pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.thelancet.com/article/S2542519623001250/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-05 11:57:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="https://openknowledge.worldbank.org/server/api/core/bitstreams/ae4d961d-49d1-59ab-a8b0-40c8b537ad1d/content">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>World Bank</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Nadia Belhaj Hassine Belghith</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Maria Adelaida Lopera</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Alvin Etang Ndip</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Wendy Karamba</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_126"/>
+        <dc:title>Analysis of the Mismatch between Tanzania Household Budget Survey and National Panel Survey Data in Poverty &amp; Inequality Levels and Trends</dc:title>
+        <dc:date>2018</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://openknowledge.worldbank.org/server/api/core/bitstreams/ae4d961d-49d1-59ab-a8b0-40c8b537ad1d/content</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>50</bib:pages>
+        <prism:number>Policy Research Working Paper 8361</prism:number>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_126">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>content</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://openknowledge.worldbank.org/server/api/core/bitstreams/ae4d961d-49d1-59ab-a8b0-40c8b537ad1d/content</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-23 12:05:47</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2072-6643/12/6/1558">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2072-6643"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kalmpourtzidou</foaf:surname>
+                        <foaf:givenName>Aliki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eilander</foaf:surname>
+                        <foaf:givenName>Ans</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Talsma</foaf:surname>
+                        <foaf:givenName>Elise F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_128"/>
+        <dc:subject>https://www.mdpi.com/2072-6643/12/6/1558/s1,</dc:subject>
+        <dc:title>Global Vegetable Intake and Supply Compared to Recommendations: A Systematic Review</dc:title>
+        <dcterms:abstract>Low vegetable intake is associated with higher incidence of noncommunicable diseases. Data on global vegetable intake excluding legumes and potatoes is currently lacking. A systematic review following Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines was conducted to assess vegetable consumption and supply in adult populations and to compare these data to the existing recommendations (≥240 g/day according to World Health Organization). For vegetable intake data online, websites of government institutions and health authorities, European Food Safety Authority (EFSA) Comprehensive European Food Consumption Database, STEPwise approach to surveillance (STEPS) and Pubmed/Medline databases were searched from March 2018 to June 2019. Vegetable supply data was extracted from Food Balance Sheets, Food and Agriculture Organization Corporate Statistical Database (FAOSTAT), 2013. Vegetable intake was expressed as means and 95% confidence intervals. Data were summarized for each region by calculating weighted means. Vegetable intake and supply data were available for 162 and 136 countries, respectively. Weighted mean vegetable intake was 186 g/day (56–349 g/day). Weighted mean vegetable supply was 431 g/day (71–882 g/day). For 88% of the countries vegetable intake was below the recommendations. Public health campaigns are required to encourage vegetable consumption worldwide. In the 61% of the countries where vegetable supply is currently insufficient to meet the recommendations, innovative food system approaches to improve yields and decrease post-harvest losses are imperative.</dcterms:abstract>
+        <dc:date>2020-05-27</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Global Vegetable Intake and Supply Compared to Recommendations</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2072-6643/12/6/1558</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-29 09:43:57</dcterms:dateSubmitted>
+        <dc:description>supplement :
+https://www.mdpi.com/2072-6643/12/6/1558/s1</dc:description>
+        <bib:pages>1558</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2072-6643">
+        <prism:volume>12</prism:volume>
+        <dc:title>Nutrients</dc:title>
+        <dc:identifier>DOI 10.3390/nu12061558</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>Nutrients</dcterms:alternative>
+        <dc:identifier>ISSN 2072-6643</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_128">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/128/Kalmpourtzidou et al. - 2020 - Global Vegetable Intake and Supply Compared to Rec.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/2072-6643/12/6/1558/pdf?version=1591188074</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-02-29 09:43:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2072-6643/11/8/1946">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>11</prism:volume>
+                <dc:title>Nutrients</dc:title>
+                <dc:identifier>DOI 10.3390/nu11081946</dc:identifier>
+                <prism:number>8</prism:number>
+                <dcterms:alternative>Nutrients</dcterms:alternative>
+                <dc:identifier>ISSN 2072-6643</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Andrade</foaf:surname>
+                        <foaf:givenName>Vanessa M.B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Santana</foaf:surname>
+                        <foaf:givenName>Mônica L.P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fukutani</foaf:surname>
+                        <foaf:givenName>Kiyoshi F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Queiroz</foaf:surname>
+                        <foaf:givenName>Artur T.L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arriaga</foaf:surname>
+                        <foaf:givenName>Maria B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Conceição-Machado</foaf:surname>
+                        <foaf:givenName>Maria Ester P.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silva</foaf:surname>
+                        <foaf:givenName>Rita De Cássia R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Andrade</foaf:surname>
+                        <foaf:givenName>Bruno B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_132"/>
+        <dc:title>Multidimensional Analysis of Food Consumption Reveals a Unique Dietary Profile Associated with Overweight and Obesity in Adolescents</dc:title>
+        <dcterms:abstract>There is a significant increase in overweight and obesity in adolescents worldwide. Here, we performed a cross-sectional study to examine the potential association between food consumption profiles and overweight in a large number of adolescents from Brazil. Sampling by clusters and conglomerates was carried out in students of public schools in Salvador, Brazil, between June and December 2009 and 1496 adolescents were evaluated. Data on socio-epidemiological data, anthropometric status and food consumption were captured. Multivariate analyses, such as hierarchical clustering and correlation networks, were used to perform a detailed description of food consumption profiles. There were differences in age and anthropometric status related to sex. Four clusters of food groups were identified based on the intake profile in the study population. No disparities in food intake were observed in individuals stratified by sex or anthropometric status. Furthermore, network analysis revealed that overweight or obesity were hallmarked by a selectivity in the ingestion of food groups that resulted in the appearance of inverse correlations of consumption, which was not present in eutrophic adolescents. Thus, overweight and obesity are associated with preferential choices of ingestion of specific food groups, which result in the appearance of inverse correlations of consumption. Such knowledge may serve as basis for future targeted nutritional interventions in adolescents.</dcterms:abstract>
+        <dc:date>2019-08-19</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2072-6643/11/8/1946</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-13 14:56:25</dcterms:dateSubmitted>
+        <bib:pages>1946</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_132">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/132/Andrade et al. - 2019 - Multidimensional Analysis of Food Consumption Reve.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/2072-6643/11/8/1946/pdf?version=1566204657</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-13 14:56:26</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://agricultureandfoodsecurity.biomedcentral.com/articles/10.1186/s40066-022-00402-4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2048-7010"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Deléglise</foaf:surname>
+                        <foaf:givenName>Hugo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bazié</foaf:surname>
+                        <foaf:givenName>Yves Gérard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bégué</foaf:surname>
+                        <foaf:givenName>Agnès</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Interdonato</foaf:surname>
+                        <foaf:givenName>Roberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roche</foaf:surname>
+                        <foaf:givenName>Mathieu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Teisseire</foaf:surname>
+                        <foaf:givenName>Maguelonne</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maître d’Hôtel</foaf:surname>
+                        <foaf:givenName>Elodie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_134"/>
+        <dc:title>Validity of household survey indicators to monitor food security in time and space: Burkina Faso case study</dc:title>
+        <dcterms:abstract>Abstract
+            
+              Background
+              The timely and accurate identification of food insecurity situations represents a challenging issue. Household surveys are routinely used in low-income countries and are an essential tool for obtaining key food security indicators that are used by decision makers to determine the targets of food security interventions.
+            
+            
+              Methodology
+              This paper investigates the spatial and temporal quality of the food security indicators obtained through household surveys. The empirical case of Burkina Faso is used in this paper, where a large-scale rural household survey has been conducted yearly since 2009. From this data set, three food security indicators (the Food Consumption Score, the Household Dietary Diversity Score and the Coping Strategies Index) are calculated at the regional level for each year during the 2009–2017 period.
+            
+            
+              Results
+              Results highlight that observed spatiotemporal variations in these indicators are consistent with the major regional food shocks reported in food warning system reports and are significantly correlated with variations computed from other sources of data, such as satellite images, rainfall and food prices.
+            
+            
+              Conclusion
+              These results raise new research questions on food security monitoring systems and on the use of heterogeneous data and multiple food security indicators.</dcterms:abstract>
+        <dc:date>2023-02-02</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Validity of household survey indicators to monitor food security in time and space</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://agricultureandfoodsecurity.biomedcentral.com/articles/10.1186/s40066-022-00402-4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-13 22:00:54</dcterms:dateSubmitted>
+        <bib:pages>64</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2048-7010">
+        <prism:volume>11</prism:volume>
+        <dc:title>Agriculture &amp; Food Security</dc:title>
+        <dc:identifier>DOI 10.1186/s40066-022-00402-4</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Agric &amp; Food Secur</dcterms:alternative>
+        <dc:identifier>ISSN 2048-7010</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_134">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/134/Deléglise et al. - 2023 - Validity of household survey indicators to monitor.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://agricultureandfoodsecurity.biomedcentral.com/counter/pdf/10.1186/s40066-022-00402-4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-13 22:00:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S2475299123266342">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:24752991"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pastori</foaf:surname>
+                        <foaf:givenName>Giulia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brouwer</foaf:surname>
+                        <foaf:givenName>Inge D</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siemonsma</foaf:surname>
+                        <foaf:givenName>Meike</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verhoef</foaf:surname>
+                        <foaf:givenName>Hans</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huong</foaf:surname>
+                        <foaf:givenName>Le Thi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Le Xuan</foaf:surname>
+                        <foaf:givenName>Thi Thanh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mai</foaf:surname>
+                        <foaf:givenName>Truong Tuyet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Samuel</foaf:surname>
+                        <foaf:givenName>Folake O</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shittu</foaf:surname>
+                        <foaf:givenName>Oluyemisi F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eyinla</foaf:surname>
+                        <foaf:givenName>Toluwalope E</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Even</foaf:surname>
+                        <foaf:givenName>Brice</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hernandez</foaf:surname>
+                        <foaf:givenName>Ricardo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lundy</foaf:surname>
+                        <foaf:givenName>Mark</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Brauw</foaf:surname>
+                        <foaf:givenName>Alan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wertheim-Heck</foaf:surname>
+                        <foaf:givenName>Sigrid</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ambler</foaf:surname>
+                        <foaf:givenName>Kate</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meldrum</foaf:surname>
+                        <foaf:givenName>Gennifer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>De Filippo</foaf:surname>
+                        <foaf:givenName>Amanda</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Talsma</foaf:surname>
+                        <foaf:givenName>Elise F</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_136"/>
+        <dc:title>Fruit and Vegetable Intake of Females Before, During, and After Introduction of 3 Bundled Food System Interventions in Urban Vietnam and Nigeria</dc:title>
+        <dc:date>01/2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S2475299123266342</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-04 14:53:43</dcterms:dateSubmitted>
+        <bib:pages>102050</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:24752991">
+        <prism:volume>8</prism:volume>
+        <dc:title>Current Developments in Nutrition</dc:title>
+        <dc:identifier>DOI 10.1016/j.cdnut.2023.102050</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Current Developments in Nutrition</dcterms:alternative>
+        <dc:identifier>ISSN 24752991</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_136">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/136/Pastori et al. - 2024 - Fruit and Vegetable Intake of Females Before, Duri.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10751831/pdf/main.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-04-04 14:54:00</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://journals.sagepub.com/doi/10.1177/0379572115587272">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>36</prism:volume>
+                <dc:title>Food and Nutrition Bulletin</dc:title>
+                <dc:identifier>DOI 10.1177/0379572115587272</dc:identifier>
+                <prism:number>2</prism:number>
+                <dcterms:alternative>Food Nutr Bull</dcterms:alternative>
+                <dc:identifier>ISSN 0379-5721, 1564-8265</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Engle-Stone</foaf:surname>
+                        <foaf:givenName>Reina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenName>Kenneth H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_142"/>
+        <dc:title>Comparison of a Household Consumption and Expenditures Survey with Nationally Representative Food Frequency Questionnaire and 24-hour Dietary Recall Data for Assessing Consumption of Fortifiable Foods by Women and Young Children in Cameroon</dc:title>
+        <dcterms:abstract>Background:
+              Household Consumption and Expenditures Surveys (HCES) are potential sources of data on dietary patterns for planning fortification programs, but they rarely have been compared with individual-level dietary assessment methods.
+            
+            
+              Objective:
+              To compare apparent consumption of fortifiable foods estimated from the Third Cameroon Household Survey (ECAM3) with the results of a national dietary survey using food frequency questionnaire (FFQ) and 24-hour recall (24HR) methods among women aged 15 to 49 years and children aged 12 to 59 months.
+            
+            
+              Methods:
+              We estimated coverage and frequency of consumption in the previous week (ECAM3 and FFQ) and coverage and amount consumed on the previous day (ECAM3 and 24HR) of refined vegetable oil, wheat flour, sugar, and bouillon cubes.
+            
+            
+              Results:
+              Coverage in the past week as measured by the ECAM3 and FFQ, respectively, was 64% vs. 54% for oil, 60% vs. 92% for flour, 69% vs. 78% for sugar, and 85% vs. 96% for bouillon cubes. The different methods identified similar patterns of coverage among subgroups for oil, but patterns for other foods were variable. Frequency of consumption and previous-day coverage were lower with the ECAM3 than with the FFQ and 24HR, likely reflecting infrequent acquisition relative to intake. For women, the mean amounts consumed on the previous day (among consumers) were 43 vs. 29 g of oil, 71 vs. 83 g of flour, 42 vs. 32 g of sugar, and 5.0 vs. 2.4 g of bouillon cubes (ECAM and 24HR, respectively).
+            
+            
+              Conclusions:
+              HCES provide useful information on patterns of food access but inadequate information on individual consumption amounts to estimate appropriate food fortification levels.</dcterms:abstract>
+        <dc:date>06/2015</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.sagepub.com/doi/10.1177/0379572115587272</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-07 12:16:16</dcterms:dateSubmitted>
+        <bib:pages>211-230</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_142">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/142/Engle-Stone and Brown - 2015 - Comparison of a Household Consumption and Expendit.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/pdf/10.1177/0379572115587272</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-07 12:16:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://journals.sagepub.com/doi/10.1177/15648265120333S207">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>33</prism:volume>
+                <dc:title>Food and Nutrition Bulletin</dc:title>
+                <dc:identifier>DOI 10.1177/15648265120333S207</dc:identifier>
+                <prism:number>3_suppl2</prism:number>
+                <dcterms:alternative>Food Nutr Bull</dcterms:alternative>
+                <dc:identifier>ISSN 0379-5721, 1564-8265</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dary</foaf:surname>
+                        <foaf:givenName>Omar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jariseta</foaf:surname>
+                        <foaf:givenName>Zo Rambeloson</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_152"/>
+        <dc:title>Validation of Dietary Applications of Household Consumption and Expenditures Surveys (HCES) against a 24-Hour Recall Method in Uganda</dc:title>
+        <dcterms:abstract>Background
+              The benefits of food fortification depend on the proportion of the population that uses the fortified food (coverage), the amount of the food being consumed, and the additional content of micronutrients in the food. Coverage and amounts consumed can be determined by 24-hour recall or Food Frequency Questionnaires (FFQs). However, these methods are rarely applied. Secondary analysis of data from Household Consumption and Expenditures Surveys (HCES) can be used for these purposes; however, such data analysis has not been validated.
+            
+            
+              Objective
+              To compare the results of HCES and 24-hour recall for estimating the consumption profile of potential fortification vehicles in Uganda.
+            
+            
+              Methods
+              Food intake estimates for 24- to 59-month-old children and 15- to 49-year-old women derived from a one-day 24-hour recall carried out in Uganda (Kampala, North, and Southwest) were compared with data from two HCES (2006, nationwide, and 2008, coupled with the 24-hour recall). The analyzed foods were vegetable oil, sugar, wheat flour, maize flour, and rice.
+            
+            
+              Results
+              Food consumptiòn estimates calculated from HCES may be less accurate than estimates derived by 24-hour recall. Nevertheless, the HCES results are sensitive enough to differentiate consumption patterns among population strata. In Uganda, HCES predicted proportion of the population that consumes the foods, and approximated intakes of main food vehicles by the “observed” consumers (those who reported using the foods), although estimates for the latter were lower for wheat flour and rice.
+            
+            
+              Conclusions
+              HCES data offer the basic information needed to provide a rationale for, and help design, food fortification programs. Individual intake surveys are still needed, however, to assess intrahousehold use of foods.</dcterms:abstract>
+        <dc:date>09/2012</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.sagepub.com/doi/10.1177/15648265120333S207</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-07 12:17:00</dcterms:dateSubmitted>
+        <bib:pages>S190-S198</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_152">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/152/Dary and Jariseta - 2012 - Validation of Dietary Applications of Household Co.pdf"/>
+        <dc:title>Dary and Jariseta - 2012 - Validation of Dietary Applications of Household Co.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://dx.plos.org/10.1371/journal.pone.0202831">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>13</prism:volume>
+                <dc:title>PLOS ONE</dc:title>
+                <dc:identifier>DOI 10.1371/journal.pone.0202831</dc:identifier>
+                <prism:number>8</prism:number>
+                <dcterms:alternative>PLoS ONE</dcterms:alternative>
+                <dc:identifier>ISSN 1932-6203</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karageorgou</foaf:surname>
+                        <foaf:givenName>Dimitra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Imamura</foaf:surname>
+                        <foaf:givenName>Fumiaki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Jianyi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shi</foaf:surname>
+                        <foaf:givenName>Peilin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mozaffarian</foaf:surname>
+                        <foaf:givenName>Dariush</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Micha</foaf:surname>
+                        <foaf:givenName>Renata</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Luckett</foaf:surname>
+                        <foaf:givenName>Brian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <link:link rdf:resource="#item_145"/>
+        <dc:title>Assessing dietary intakes from household budget surveys: A national analysis in Bangladesh</dc:title>
+        <dc:date>2018-8-27</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Assessing dietary intakes from household budget surveys</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dx.plos.org/10.1371/journal.pone.0202831</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-07 12:23:59</dcterms:dateSubmitted>
+        <bib:pages>e0202831</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_145">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/145/Karageorgou et al. - 2018 - Assessing dietary intakes from household budget su.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0202831&amp;type=printable</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-07 12:24:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://www.mdpi.com/2072-6643/10/6/703">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>10</prism:volume>
+                <dc:title>Nutrients</dc:title>
+                <dc:identifier>DOI 10.3390/nu10060703</dc:identifier>
+                <prism:number>6</prism:number>
+                <dcterms:alternative>Nutrients</dcterms:alternative>
+                <dc:identifier>ISSN 2072-6643</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bromage</foaf:surname>
+                        <foaf:givenName>Sabri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rosner</foaf:surname>
+                        <foaf:givenName>Bernard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rich-Edwards</foaf:surname>
+                        <foaf:givenName>Janet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ganmaa</foaf:surname>
+                        <foaf:givenName>Davaasambuu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tsolmon</foaf:surname>
+                        <foaf:givenName>Soninkhishig</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tserendejid</foaf:surname>
+                        <foaf:givenName>Zuunnast</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Odbayar</foaf:surname>
+                        <foaf:givenName>Tseye-Oidov</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Traeger</foaf:surname>
+                        <foaf:givenName>Margaret</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fawzi</foaf:surname>
+                        <foaf:givenName>Wafaie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_147"/>
+        <dc:title>Comparison of Methods for Estimating Dietary Food and Nutrient Intakes and Intake Densities from Household Consumption and Expenditure Data in Mongolia</dc:title>
+        <dc:date>2018-05-31</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.mdpi.com/2072-6643/10/6/703</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-07 12:26:09</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <bib:pages>703</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_147">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/147/Bromage et al. - 2018 - Comparison of Methods for Estimating Dietary Food .pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/2072-6643/10/6/703/pdf?version=1527767534</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-07 12:26:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://journals.sagepub.com/doi/10.1177/15648265120333S208">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>33</prism:volume>
+                <dc:title>Food and Nutrition Bulletin</dc:title>
+                <dc:identifier>DOI 10.1177/15648265120333S208</dc:identifier>
+                <prism:number>3_suppl2</prism:number>
+                <dcterms:alternative>Food Nutr Bull</dcterms:alternative>
+                <dc:identifier>ISSN 0379-5721, 1564-8265</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jariseta</foaf:surname>
+                        <foaf:givenName>Zo Rambeloson</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dary</foaf:surname>
+                        <foaf:givenName>Omar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fiedler</foaf:surname>
+                        <foaf:givenName>John L.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Franklin</foaf:surname>
+                        <foaf:givenName>Nadra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_149"/>
+        <dc:title>Comparison of Estimates of the Nutrient Density of the Diet of Women and Children in Uganda by Household Consumption and Expenditures Surveys (HCES) and 24-Hour Recall</dc:title>
+        <dcterms:abstract>Background
+              Individual dietary intake data are important for informing national nutrition policy but are rarely available. National Household Consumption and Expenditures Surveys (HCES) may be an alternative method, but there is no evidence to assess their relative performance.
+            
+            
+              Objective
+              To compare HCES-based estimates of the nutrient density of foods consumed by Ugandan women (15 to 49 years of age) and children (24 to 59 months of age) with estimates based on 24-hour recall.
+            
+            
+              Methods
+              The 52 food items of the Uganda 2006 HCES were matched with nutrient content of foods in a 2008 24-hour recall survey, which were used to refine the HCES-based estimates of nutrient intakes. Two methods were used to match the surveys' food items. Model 1 identified the four or five most commonly consumed foods from the 24-hour recall survey and calculated their unweighted average nutrient contents. Model 2 used the nutrient contents of the single most consumed food from the 24-hour recall. For each model, 14 estimates of nutrient densities of the diet were made and 84 differences were compared.
+            
+            
+              Results
+              
+                Models 1 and 2 were not significantly different. Of the model 2 HCES-24-hour recall comparisons, 67 (80%) did not find a significant difference. No significant differences were found for protein, fat, fiber, iron, thiamin, riboflavin, and vitamin B
+                6
+                intakes. HCES overestimated intakes of vitamins C and B
+                12
+                and underestimated intakes of vitamin A, folate, niacin, calcium, and zinc in at least one of the groups.
+              
+            
+            
+              Conclusions
+              The HCES-based estimates are a relatively good proxy for 24-hour recall measures of nutrient density of the diet. Further work is needed to ascertain nutrient adequacy using this method in several countries.</dcterms:abstract>
+        <dc:date>09/2012</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://journals.sagepub.com/doi/10.1177/15648265120333S208</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-07 12:39:11</dcterms:dateSubmitted>
+        <bib:pages>S199-S207</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_149">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/149/Jariseta et al. - 2012 - Comparison of Estimates of the Nutrient Density of.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.sagepub.com/doi/pdf/10.1177/15648265120333S208</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-07 12:39:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0306919217306851">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:03069192"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Coates</foaf:surname>
+                        <foaf:givenName>Jennifer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rogers</foaf:surname>
+                        <foaf:givenName>Beatrice Lorge</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Blau</foaf:surname>
+                        <foaf:givenName>Alexander</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lauer</foaf:surname>
+                        <foaf:givenName>Jacqueline</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Roba</foaf:surname>
+                        <foaf:givenName>Alemzewed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_151"/>
+        <dc:title>Filling a dietary data gap? Validation of the adult male equivalent method of estimating individual nutrient intakes from household-level data in Ethiopia and Bangladesh</dc:title>
+        <dc:date>10/2017</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Filling a dietary data gap?</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0306919217306851</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-07 13:27:18</dcterms:dateSubmitted>
+        <bib:pages>27-42</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:03069192">
+        <prism:volume>72</prism:volume>
+        <dc:title>Food Policy</dc:title>
+        <dc:identifier>DOI 10.1016/j.foodpol.2017.08.010</dc:identifier>
+        <dcterms:alternative>Food Policy</dcterms:alternative>
+        <dc:identifier>ISSN 03069192</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_151">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/151/Coates et al. - 2017 - Filling a dietary data gap Validation of the adul.pdf"/>
+        <dc:title>Coates et al. - 2017 - Filling a dietary data gap Validation of the adul.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_153">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>10</prism:volume>
+                <dc:title>Nutrients</dc:title>
+                <dc:identifier>DOI 10.3390/nu10060703</dc:identifier>
+                <prism:number>6</prism:number>
+                <dcterms:alternative>Nutrients</dcterms:alternative>
+                <dc:identifier>ISSN 2072-6643</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bromage</foaf:surname>
+                        <foaf:givenName>Sabri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rosner</foaf:surname>
+                        <foaf:givenName>Bernard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rich-Edwards</foaf:surname>
+                        <foaf:givenName>Janet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ganmaa</foaf:surname>
+                        <foaf:givenName>Davaasambuu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tsolmon</foaf:surname>
+                        <foaf:givenName>Soninkhishig</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tserendejid</foaf:surname>
+                        <foaf:givenName>Zuunnast</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Odbayar</foaf:surname>
+                        <foaf:givenName>Tseye-Oidov</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Traeger</foaf:surname>
+                        <foaf:givenName>Margaret</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fawzi</foaf:surname>
+                        <foaf:givenName>Wafaie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_154"/>
+        <dc:title>Comparison of Methods for Estimating Dietary Food and Nutrient Intakes and Intake Densities from Household Consumption and Expenditure Data in Mongolia</dc:title>
+        <dc:date>2018-05-31</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://www.mdpi.com/2072-6643/10/6/703</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-08 10:52:30</dcterms:dateSubmitted>
+        <dc:rights>https://creativecommons.org/licenses/by/4.0/</dc:rights>
+        <bib:pages>703</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_154">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/154/Bromage et al. - 2018 - Comparison of Methods for Estimating Dietary Food .pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/2072-6643/10/6/703/pdf?version=1527767534</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-05-08 10:52:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="#item_186">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                        <vcard:locality>Dodoma, Tanzania; Washington DC, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ministry of Finance and Planning—Poverty Eradication Division (MoFP—PED) [Tanzania Mainland]</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>National Bureau of Statistics</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>The World Bank</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Tanzania Mainland Household Budget Survey 2017/18</dc:title>
+        <dc:date>2020</dc:date>
+    </bib:Report>
+    <bib:Report rdf:about="#item_187">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Dodoma, Tanzania</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>National Bureau of Statistics (NBS) [Tanzania]</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Tanzania National Panel Survey Report (NPS) - Wave 5, 2020 - 2021</dc:title>
+        <dc:date>2022</dc:date>
+    </bib:Report>
+    <bib:Article rdf:about="https://www.cambridge.org/core/product/identifier/S136898002400199X/type/journal_article">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1368-9800,%201475-2727"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goto</foaf:surname>
+                        <foaf:givenName>Rie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mlambo</foaf:surname>
+                        <foaf:givenName>Liberty</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Segovia De La Revilla</foaf:surname>
+                        <foaf:givenName>Lucia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Swai</foaf:surname>
+                        <foaf:givenName>Aleswa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mshida</foaf:surname>
+                        <foaf:givenName>Hoyce</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amos</foaf:surname>
+                        <foaf:givenName>Alex</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Karugendo</foaf:surname>
+                        <foaf:givenName>Emilian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Osman</foaf:surname>
+                        <foaf:givenName>Gareth</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tang</foaf:surname>
+                        <foaf:givenName>Kevin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Codd</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chagumaira</foaf:surname>
+                        <foaf:givenName>Christopher</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ferguson</foaf:surname>
+                        <foaf:givenName>Elaine L</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ander</foaf:surname>
+                        <foaf:givenName>E Louise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jumbe</foaf:surname>
+                        <foaf:givenName>Theresia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Masumo</foaf:surname>
+                        <foaf:givenName>Ray</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dary</foaf:surname>
+                        <foaf:givenName>Omar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yourkavitch</foaf:surname>
+                        <foaf:givenName>Jennifer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pedersen</foaf:surname>
+                        <foaf:givenName>Sarah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leyna</foaf:surname>
+                        <foaf:givenName>Germana H</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woldt</foaf:surname>
+                        <foaf:givenName>Monica</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Joy</foaf:surname>
+                        <foaf:givenName>Edward Jm</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_190"/>
+        <dc:title>Estimating food consumption, micronutrient intake and the contribution of large-scale food fortification to micronutrient adequacy in Tanzania</dc:title>
+        <dcterms:abstract>Abstract
+            
+              Objective:
+              To assess the potential contribution of large-scale food fortification (LSFF) towards meeting dietary micronutrient requirements in Tanzania.
+            
+            
+              Design:
+              We used household food consumption data from the National Panel Survey 2014–15 to estimate fortifiable food vehicle coverage and consumption (standardised using the adult female equivalent approach) and the prevalence at risk of inadequate apparent intake of five micronutrients included in Tanzania’s fortification legislation. We modelled four LSFF scenarios: no fortification, status quo (i.e. compliance with current fortification contents) and full fortification with and without maize flour fortification.
+            
+            
+              Setting:
+              Tanzania.
+            
+            
+              Participants:
+              A nationally representative sample of 3290 Tanzanian households.
+            
+            
+              Results:
+              
+                The coverage of edible oils and maize and wheat flours (including products of wheat flour and oil such as bread and cakes) was high, with 91 percent, 88 percent and 53 percent of households consuming these commodities, respectively. We estimated that vitamin A-fortified oil could reduce the prevalence of inadequate apparent intake of vitamin A (retinol activity equivalent) from 92 percent without LSFF to 80 percent with LSFF at current fortification levels. Low industry LSFF compliance of flour fortification limits the contribution of other micronutrients, but a hypothetical full fortification scenario shows that LSFF of cereal flours could substantially reduce the prevalence at risk of inadequate intakes of iron, zinc, folate and vitamin B
+                12
+                .
+              
+            
+            
+              Conclusions:
+              The current Tanzania LSFF programme likely contributes to reducing vitamin A inadequacy. Policies that support increased compliance could improve the supply of multiple nutrients, but the prominence of small-scale maize mills restricts this theoretical benefit.</dcterms:abstract>
+        <dc:date>2024</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/product/identifier/S136898002400199X/type/journal_article</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-14 15:03:40</dcterms:dateSubmitted>
+        <bib:pages>e230</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1368-9800,%201475-2727">
+        <prism:volume>27</prism:volume>
+        <dc:title>Public Health Nutrition</dc:title>
+        <dc:identifier>DOI 10.1017/S136898002400199X</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Public Health Nutr.</dcterms:alternative>
+        <dc:identifier>ISSN 1368-9800, 1475-2727</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_190">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/190/Goto et al. - 2024 - Estimating food consumption, micronutrient intake .pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cambridge.org/core/services/aop-cambridge-core/content/view/1BED42864535D3FE6448CC2990BD6AC5/S136898002400199Xa.pdf/div-class-title-estimating-food-consumption-micronutrient-intake-and-the-contribution-of-large-scale-food-fortification-to-micronutrient-adequacy-in-tanzania-div.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-14 15:25:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="https://assets.publishing.service.gov.uk/media/57a08bac40f0b64974000cd6/tech08.pdf">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Washington D.C.</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ILSI Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Rosalind S Gibson</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Elaine L. Ferguson</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>An interactive 24-Hour recall for assessing the adequacy of iron and zinc intakes in developing countries</dc:title>
+        <dc:date>1999</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://assets.publishing.service.gov.uk/media/57a08bac40f0b64974000cd6/tech08.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Book>
+    <rdf:Description rdf:about="https://microdata.worldbank.org/index.php/catalog/5639">
+        <z:itemType>dataset</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>National Bureau of Statistics [Tanzania]</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>National Panel Survey 2020-21, Wave 5</dc:title>
+        <dc:date>15-11-2024</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://microdata.worldbank.org/index.php/catalog/5639</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <bib:Article rdf:about="https://rgdoi.net/10.13140/RG.2.2.11854.74565">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.13140/RG.2.2.11854.74565</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Asmar</foaf:surname>
+                        <foaf:givenName>Tia El</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Touma</foaf:surname>
+                        <foaf:givenName>Kristy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abboud</foaf:surname>
+                        <foaf:givenName>Pamela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Joya Cherfan</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_193"/>
+        <dc:title>Milk Powder Production - Food processing</dc:title>
+        <dc:date>2021</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://rgdoi.net/10.13140/RG.2.2.11854.74565</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-11-20 13:49:55</dcterms:dateSubmitted>
+        <dc:description>Publisher: Unpublished</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_193">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/193/Asmar et al. - 2021 - Milk Powder Production - Food processing.pdf"/>
+        <dc:title>Asmar et al. - 2021 - Milk Powder Production - Food processing.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
